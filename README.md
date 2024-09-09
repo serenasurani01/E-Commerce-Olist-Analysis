@@ -16,7 +16,7 @@ Olist is a platform that assists small and medium-sized businesses in Brazil wit
 
 The average order value is $137.75. The quartile breakdown is as follows: Q1 is $45.9, Q2 (median) is $86.9, and Q3 is $149.9. This indicates that the average is being skewed by a smaller number of very high-value orders.  
 
-The blue map highlights the distribution of customers, with the highest concentration in southeastern Brazil, particularly around São Paulo and Rio de Janeiro. In contrast, the green map shows the average order value across regions, with the southeast still leading in value. Interestingly, while the number of customers in the **northwest** of Brazil is low, the **average order value** in that area is higher compared to other regions.  
+The blue map highlights the distribution of customers, with the highest concentration in southeastern Brazil, particularly around São Paulo and Rio de Janeiro. In contrast, the green map shows the average order value across regions, with the southeast still leading in value. Interestingly, while the number of customers in the northern parts of Brazil are low, the average order value in that area is higher compared to other regions.  
 
 ### How does customer retention impact overall sales and average order value on Olist?
 
@@ -38,8 +38,15 @@ Looking at the prices holistically, consumers overall show low price sensitivity
 
 ### At what average order value do customers opt for installment payments, and how prevalent is this behaviour?
 
-Customers opting for installment payments have an average order value of $199.06, while those paying in full average $123.21, indicating that higher-value purchases are more likely to be paid over time. Around 50% of orders were paid in installments.  
+Customers opting for installment payments have an average order value of $199.06, while those paying in full average $123.21, indicating that higher-value purchases are more likely to be paid over time. Around 50% of orders were paid in installments. 
+
+![Frequency of Payment Installments](https://github.com/user-attachments/assets/3fa502e0-91c1-4dfa-81b4-63bb84431544)  
+
+## Recommendations & Next Steps
+
+  1. **Improve Customer Retention:** Since 90% of customers are one-time buyers and they contribute the majority of sales, Olist should focus on converting these customers into repeat buyers. Developing loyalty programs, personalized offers, or subscription models could encourage more frequent purchases.  
+  2. **Unlocking Northern Brazil:** The analysis reveals a high average order value in northern Brazil despite a lower customer count. This suggests untapped potential in this region. Expanding targeted marketing efforts and localized promotions could drive growth in less saturated regions like the northwest.
   
-![Frequency of Payment Installments](https://github.com/user-attachments/assets/3fa502e0-91c1-4dfa-81b4-63bb84431544)
+
 
 
